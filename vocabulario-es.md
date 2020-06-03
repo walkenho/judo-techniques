@@ -1,34 +1,43 @@
-# Vocabulario
+# Vocabulary
+## Ukemi-Waza (Tecnicas de Caida)
+| Japanese | Espaniol / Explicacion |
+| ---------| --------------------|
+| mai-ukemi | caida adelante | 
+| ushiro-ukemi | caida atras |
+| yoko | acostado |
+| yoko-ukemi | caida acostado |
+| zempokaitem-ukemi | rueda adelante |
+| maemaware-ukemi | rueda adelante | 
+| migi | derecha |
+| idair | izquierda |
 
-Kuzushi - Tsukuri - Kake
+## Katame-Waza/Ne-Waza (Tecnicas de Suelo)
 
-Renshu = Trabajo
-Tandoku Renshu = Trabajo solitario
-Sotai Renshu = Trabajo con companiero
+## Otros
+| Japanese | Espaniol / Explicacion |
+|--------|------------------------| 
+| renshu | trabajo |
+| tandoku renshu | trabajo solitario |
+| sotai renshu | trabajo con companiero |
+| kakari | ataque |
+| geiko | defensa |
+| rei | saludo |
+| zarei | saludo sentado |
+| seiza | posicion para saludo sentado | 
+| ritsu rei | saludo de pie | 
+| tsoku ritsu | posicion para saludo de pie |
+| waza | technica |
+| tokui waza | technica especial |
+| ukemi waza | technica de caida |
+| ne waza | tecnica de suelo \* |
+| katame waza | \* |
+| osai-komi-waza | technica de inmovilizacion |
+| shime-waza | technica de estrangulacion |
+| kansetsu-waza | technica de luxacion | 
+| yakusoku geiko | practica libre organizado |
+| yakuso renshu | lo mismo como yakusoku geiko |
+| kuzushi | desequilibriacion | 
+| tsukuri | preparacion para execucion de tecnica | 
+| kake | execucion de technica |
 
-Kakari - Geiko = Ataque y Defensa
-
-Tsoku ritsu = posición para saludo en pie
-Ritsu rei = saludo de pie
-
-Seiza = posición para saludo sentado
-Za rei = saludo sentado
-
-Yakusoku Geiko (or renshu): 
-pre-arranged free practice
-
-Ukemi-Wazas (Tecnicas de caer):
-Mai-Ukemi = Caida adelante
-Ushiro-Ukemi = Caida atras
-Yoku = costado
-Yoku-Ukemi
-Zempokaitem-Ukemi (=Maemaware-Ukemi) = Rueda adelante
-migi = derecha
-idari = izquierda
-
-Tokui-Waza = Tecnica especial 
-
-Ne-waza = Tecnicas de suelo
-Katame-waza  = 
-
-"Katame-waza comprises osai-komi-waza (hold-down techniques)[sic], shime-waza (strangling techniques)[sic] and kansetsu-waza (joint techniques)[sic]. The term ne-waza (mat work] is sometimes used in place of katame-waza, but it is misleading in that not all katame-waza are executed while lying [sic] on the mat. Some stangleholds and joint locks, for example, can be applied from a standing position. As can be seen from the terminology, in grappling the opponent is held, his joints are locked or his limbs bent or twisted, or he can be strangled."
+\* "Katame-waza incluye osai-komi-waza (inmovilizaciones), shime-waza (estrangulaciones) y kansetsu-waza (luxaciones). La palabra ne-waza (mat work] se usa a veces en lugar de katame-waza, pero este uso es incorrecto porque no todas katame-wazas estan executados mientras estando acostado en el suelo. Algunas estrangulaciones y luxaciones, por ejemplo, se pueden ejecutar desde una posicion de pie. 
