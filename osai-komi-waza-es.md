@@ -1,4 +1,4 @@
-# Osae(komi)-Wazas (Inmovilizaciones)
+# Osai(komi)-Wazas
 
 1. Hon-Kesa-Gatame (Kesa = Bufanda)
 
