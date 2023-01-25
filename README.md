@@ -7,12 +7,12 @@ in detail to help me study and prepare. This is my personal intent to sort these
 both for myself for the future and possibly (?) for others.
 
 When advancing in the study of judo, you are supposed to learn the vocabulary. 
-Personally, I have always found that making sense of words in a structured manner helps me memorize them. In this 
+Personally, I have always found that making sense of words in a structured manner helps me to memorise them. In this 
 context, these notes also include a glossary that are meant to support this effort. 
 
 I have practiced Judo in German and in Spanish, but never in English (isn't life strange sometimes?). I am therefore not yet familiar with the 
 common English terminology. In this sense, this is also an intent of familiarizing myself with the English terminology in preparation
-of joining a club in Britain. The linguistic quality of these notes should therfore (hopefully) keep improving whilst 
+of joining a club in Britain. The linguistic quality of these notes should therefore (hopefully) keep improving whilst 
 I add new articles and descriptions. For the start I will be also using [blackbeltwiki](https://blackbeltwiki.com/) to help with the vocabulary.
 
 
