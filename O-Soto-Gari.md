@@ -1,0 +1,1 @@
+also see [[Counters to O-Soto-Gari]]
